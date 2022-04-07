@@ -1,0 +1,28 @@
+//git 
+git init 
+git  add remote origin clone-path 
+git add .
+git commit -m "message".
+git push origin master
+git status
+
+
+
+//push code in changes the file
+
+git status 
+git add .// add file if any changes 
+git commit -m "messsage"
+git push origin master 
+
+
+task info 
+https://youtu.be/0x8Dap2EIVE
+
+
+pull from main branch
+git add . 
+git commit -m ""
+git push origin branch-name
+
+git pull origin main
